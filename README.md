@@ -1,4 +1,4 @@
-<img src="assets/brand/godwit-header.svg" width="720" alt="Godwit: move your data to a new system, without it ever leaving yours.">
+<img src="assets/brand/godwit-banner.png" alt="Godwit: offline CSV migration with no AI service. An old POS export mapped to a new system's import format, with the evidence for each mapping.">
 
 [![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white)](https://go.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
