@@ -1,0 +1,51 @@
+id,parent_id,item_code,name,product_group,srp,qty,department_id,department_name,category_id,category_name,store_id,store_name
+,,SKU001,Wireless Mouse,,25.99,150,,,,,,Downtown Store
+,,SKU002,USB Keyboard,,35.50,200,,,,,,Downtown Store
+,,SKU003,Cotton T-Shirt,,15.99,300,,,,,,Northside Mall
+,,SKU004,Denim Jeans,,45.00,180,,,,,,Northside Mall
+,,SKU005,Running Shoes,,89.99,120,,,,,,Eastside Plaza
+,,SKU006,Casual Sneakers,,65.00,95,,,,,,Eastside Plaza
+,,SKU007,Blender,,75.50,80,,,,,,Westend Center
+,,SKU008,Toaster,,45.99,110,,,,,,Westend Center
+,,SKU009,LED Desk Lamp,,32.00,140,,,,,,Downtown Store
+,,SKU010,Floor Lamp,,85.00,60,,,,,,Central Branch
+,,SKU011,Yoga Mat,,25.50,200,,,,,,Eastside Plaza
+,,SKU012,Dumbbells Set,,120.00,75,,,,,,Eastside Plaza
+,,SKU013,Notebook Set,,8.99,500,,,,,,Northside Mall
+,,SKU014,Pen Pack,,4.50,800,,,,,,Northside Mall
+,,SKU015,Backpack,,55.00,150,,,,,,Westend Center
+,,SKU016,Laptop Bag,,68.99,130,,,,,,Downtown Store
+,,SKU017,Coffee Maker,,95.00,85,,,,,,Central Branch
+,,SKU018,Electric Kettle,,38.50,160,,,,,,Central Branch
+,,SKU019,Hoodie,,48.00,220,,,,,,Northside Mall
+,,SKU020,Leggings,,28.99,280,,,,,,Northside Mall
+,,SKU021,HDMI Cable,,12.99,400,,,,,,Downtown Store
+,,SKU022,Webcam,,58.00,90,,,,,,Downtown Store
+,,SKU023,Basketball,,35.00,110,,,,,,Eastside Plaza
+,,SKU024,Soccer Ball,,30.00,125,,,,,,Eastside Plaza
+,,SKU025,Winter Jacket,,125.00,100,,,,,,Northside Mall
+,,SKU026,Rain Coat,,75.00,85,,,,,,Westend Center
+,,SKU027,Pillow Set,,40.00,150,,,,,,Central Branch
+,,SKU028,Bedsheet Set,,65.00,120,,,,,,Central Branch
+,,SKU029,Wall Clock,,28.50,90,,,,,,Westend Center
+,,SKU030,Picture Frame,,18.99,200,,,,,,Westend Center
+,,SKU031,Tennis Racket,,85.00,60,,,,,,Eastside Plaza
+,,SKU032,Badminton Set,,45.00,80,,,,,,Eastside Plaza
+,,SKU033,Desk Organizer,,15.50,180,,,,,,Downtown Store
+,,SKU034,File Folder Pack,,12.00,250,,,,,,Northside Mall
+,,SKU035,Sunglasses,,42.00,140,,,,,,Eastside Plaza
+,,SKU036,Reading Glasses,,55.00,95,,,,,,Central Branch
+,,SKU037,Wristwatch,,150.00,70,,,,,,Downtown Store
+,,SKU038,Smart Watch,,285.00,50,,,,,,Downtown Store
+,,SKU039,Sandals,,35.00,160,,,,,,Westend Center
+,,SKU040,Formal Shoes,,95.00,90,,,,,,Central Branch
+,,SKU041,Protein Powder,,48.99,110,,,,,,Eastside Plaza
+,,SKU042,Vitamins,,25.50,200,,,,,,Eastside Plaza
+,,SKU043,Shampoo,,12.99,300,,,,,,Northside Mall
+,,SKU044,Conditioner,,13.50,280,,,,,,Northside Mall
+,,SKU045,Face Cream,,32.00,150,,,,,,Westend Center
+,,SKU046,Body Lotion,,18.50,220,,,,,,Central Branch
+,,SKU047,Water Bottle,,15.00,350,,,,,,Downtown Store
+,,SKU048,Camping Tent,,180.00,40,,,,,,Eastside Plaza
+,,SKU049,Cookbook,,22.00,120,,,,,,Northside Mall
+,,SKU050,Magazine Set,,15.99,180,,,,,,Central Branch

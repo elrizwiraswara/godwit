@@ -1,0 +1,51 @@
+item_id,item_name,item_category,unit_price,available_stock,is_available,stock_status,unit_type,warehouse_id,warehouse_name
+101,Gaming Headset,Accessories,79.99,45,true,available,unit,WH01,Central Warehouse
+102,Bluetooth Speaker,Accessories,55.00,120,true,available,unit,WH01,Central Warehouse
+103,Instant Noodles Pack,Groceries,2.99,850,true,available,pack,WH02,Food Storage
+104,Mineral Water 1.5L,Beverages,1.25,600,true,available,bottle,WH02,Food Storage
+105,Ballpoint Pen Blue,Office Supplies,0.85,1200,true,available,piece,WH03,Stationery Hub
+106,Espresso Coffee 250g,Groceries,14.50,200,true,available,pack,WH02,Food Storage
+107,Laptop Stand,Accessories,35.75,80,false,discontinued,unit,WH01,Central Warehouse
+108,Copy Paper 500 sheets,Office Supplies,8.99,400,true,available,ream,WH03,Stationery Hub
+109,Standing Desk,Furniture,449.00,12,true,L,unit,WH04,Furniture Depot
+110,Stapler Metal,Office Supplies,12.50,300,true,available,piece,WH03,Stationery Hub
+111,Wireless Charger,Accessories,28.99,90,true,available,unit,WH01,Central Warehouse
+112,Chocolate Bar 100g,Groceries,3.75,500,true,available,bar,WH02,Food Storage
+113,File Folder Set,Office Supplies,6.25,180,true,available,set,WH03,Stationery Hub
+114,Energy Drink 250ml,Beverages,2.50,750,true,available,can,WH02,Food Storage
+115,USB Hub 4-Port,Accessories,22.50,150,true,available,unit,WH01,Central Warehouse
+116,Granola Bar Pack,Groceries,5.99,400,true,available,pack,WH02,Food Storage
+117,Desk Lamp LED,Accessories,42.00,65,true,available,unit,WH01,Central Warehouse
+118,Orange Juice 1L,Beverages,3.50,320,true,available,bottle,WH02,Food Storage
+119,Marker Set 12pcs,Office Supplies,9.75,220,true,available,set,WH03,Stationery Hub
+120,Office Chair Executive,Furniture,299.00,18,true,available,unit,WH04,Furniture Depot
+121,Phone Mount,Accessories,15.99,200,true,available,unit,WH01,Central Warehouse
+122,Potato Chips 150g,Groceries,2.25,680,true,available,pack,WH02,Food Storage
+123,Sticky Notes 3x3,Office Supplies,3.50,550,true,available,pack,WH03,Stationery Hub
+124,Iced Tea 500ml,Beverages,1.75,890,true,available,bottle,WH02,Food Storage
+125,Webcam HD 1080p,Accessories,68.00,55,true,available,unit,WH01,Central Warehouse
+126,Pasta 500g,Groceries,4.25,380,true,available,pack,WH02,Food Storage
+127,Binder Clips Box,Office Supplies,4.75,420,true,available,piece,WH03,Stationery Hub
+128,Bookshelf 5-Tier,Furniture,159.00,15,true,L,unit,WH04,Furniture Depot
+129,Mouse Pad XXL,Accessories,18.50,175,true,available,unit,WH01,Central Warehouse
+130,Cereal Box 500g,Groceries,6.50,290,true,available,pack,WH02,Food Storage
+131,Highlighter Set,Office Supplies,5.25,380,true,available,set,WH03,Stationery Hub
+132,Sports Drink 600ml,Beverages,2.99,520,true,available,bottle,WH02,Food Storage
+133,Cable Organizer,Accessories,12.99,140,true,available,unit,WH01,Central Warehouse
+134,Rice 2kg,Groceries,8.75,250,true,available,pack,WH02,Food Storage
+135,Correction Tape,Office Supplies,2.50,460,true,available,piece,WH03,Stationery Hub
+136,Filing Cabinet 3-Drawer,Furniture,189.00,10,true,L,unit,WH04,Furniture Depot
+137,Keyboard Wrist Rest,Accessories,16.25,110,true,available,unit,WH01,Central Warehouse
+138,Peanut Butter 500g,Groceries,7.99,180,true,available,pack,WH02,Food Storage
+139,Paper Clips Box,Office Supplies,1.99,720,true,available,piece,WH03,Stationery Hub
+140,Lemonade 1L,Beverages,2.75,440,true,available,bottle,WH02,Food Storage
+141,Monitor Riser,Accessories,32.50,75,true,available,unit,WH01,Central Warehouse
+142,Cookies Pack 200g,Groceries,4.50,410,true,available,pack,WH02,Food Storage
+143,Envelope Pack 50pcs,Office Supplies,5.75,290,true,available,set,WH03,Stationery Hub
+144,Conference Table,Furniture,599.00,6,false,discontinued,unit,WH04,Furniture Depot
+145,Laptop Cooling Fan,Accessories,24.99,95,true,available,unit,WH01,Central Warehouse
+146,Trail Mix 300g,Groceries,6.25,340,true,available,pack,WH02,Food Storage
+147,Calculator Desktop,Office Supplies,18.50,160,true,available,piece,WH03,Stationery Hub
+148,Coconut Water 330ml,Beverages,1.99,610,true,available,can,WH02,Food Storage
+149,Desk Organizer,Furniture,38.00,28,true,available,unit,WH04,Furniture Depot
+150,Screen Cleaning Kit,Accessories,11.75,130,true,available,set,WH01,Central Warehouse

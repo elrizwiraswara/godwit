@@ -1,0 +1,66 @@
+[
+  {
+    "column": "id",
+    "values": []
+  },
+  {
+    "column": "parent_id",
+    "values": []
+  },
+  {
+    "column": "item_code",
+    "values": []
+  },
+  {
+    "column": "name",
+    "values": []
+  },
+  {
+    "column": "product_group",
+    "values": [
+      "Electronics",
+      "Apparel",
+      "Footwear",
+      "Appliances",
+      "Sports",
+      "Stationery",
+      "Decor",
+      "Accessories",
+      "Health",
+      "Personal Care",
+      "Books"
+    ]
+  },
+  {
+    "column": "srp",
+    "values": []
+  },
+  {
+    "column": "qty",
+    "values": []
+  },
+  {
+    "column": "department_id",
+    "values": []
+  },
+  {
+    "column": "department_name",
+    "values": []
+  },
+  {
+    "column": "category_id",
+    "values": []
+  },
+  {
+    "column": "category_name",
+    "values": []
+  },
+  {
+    "column": "store_id",
+    "values": []
+  },
+  {
+    "column": "store_name",
+    "values": []
+  }
+]

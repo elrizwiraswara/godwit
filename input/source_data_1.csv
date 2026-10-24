@@ -1,0 +1,51 @@
+product_id,product_name,product_type,unit_price,qty_available,active_flag,inventory_status,measurement_unit,vendor_code,vendor_company
+1,Wireless Mouse,ELEC,25.99,150,Y,available,pcs,S001,TechSupply Co
+2,USB-C Cable,ELEC,12.50,300,Y,available,pcs,S001,TechSupply Co
+3,Coffee Beans 1kg,F&B,18.75,80,Y,available,kg,S002,Fresh Foods Inc
+4,Notebook A4,STAT,3.25,500,Y,available,pcs,S003,Office Depot
+5,Desk Lamp,ELEC,45.00,60,Y,available,pcs,S001,TechSupply Co
+6,Green Tea Box,F&B,8.50,120,Y,available,box,S002,Fresh Foods Inc
+7,Mechanical Keyboard,ELEC,89.99,40,N,unavailable,pcs,S001,TechSupply Co
+8,Printer Paper A4,STAT,22.00,200,Y,available,ream,S003,Office Depot
+9,Ergonomic Chair,FURN,299.99,15,Y,low,pcs,S004,Furniture Plus
+10,Whiteboard Markers,STAT,5.75,250,Y,available,pack,S003,Office Depot
+11,HDMI Cable 2m,ELEC,15.25,180,Y,available,pcs,S001,TechSupply Co
+12,Organic Honey 500g,F&B,12.99,95,Y,available,jar,S002,Fresh Foods Inc
+13,Bluetooth Speaker,ELEC,55.00,85,Y,available,pcs,S001,TechSupply Co
+14,Pasta 500g,F&B,4.25,220,Y,available,pack,S002,Fresh Foods Inc
+15,Stapler,STAT,8.99,180,Y,available,pcs,S003,Office Depot
+16,Office Desk,FURN,199.99,25,Y,available,pcs,S004,Furniture Plus
+17,Webcam HD,ELEC,75.50,55,Y,available,pcs,S001,TechSupply Co
+18,Olive Oil 1L,F&B,16.50,110,Y,available,jar,S002,Fresh Foods Inc
+19,Sticky Notes,STAT,2.75,400,Y,available,pack,S003,Office Depot
+20,Filing Cabinet,FURN,159.99,12,Y,low,pcs,S004,Furniture Plus
+21,Wireless Keyboard,ELEC,42.00,95,Y,available,pcs,S001,TechSupply Co
+22,Granola Bars,F&B,9.99,145,Y,available,box,S002,Fresh Foods Inc
+23,Paper Clips,STAT,1.50,600,Y,available,box,S003,Office Depot
+24,Bookshelf,FURN,129.99,18,Y,available,pcs,S004,Furniture Plus
+25,USB Flash Drive 32GB,ELEC,18.99,200,Y,available,pcs,S001,TechSupply Co
+26,Almonds 500g,F&B,14.75,75,Y,available,pack,S002,Fresh Foods Inc
+27,Highlighters,STAT,4.50,320,Y,available,pack,S003,Office Depot
+28,Office Chair Mat,FURN,45.00,30,Y,available,pcs,S004,Furniture Plus
+29,Computer Mouse Pad,ELEC,8.25,250,Y,available,pcs,S001,TechSupply Co
+30,Black Pepper 100g,F&B,5.99,160,Y,available,jar,S002,Fresh Foods Inc
+31,Binder Clips,STAT,3.75,280,Y,available,box,S003,Office Depot
+32,Standing Desk,FURN,399.99,8,Y,low,pcs,S004,Furniture Plus
+33,Monitor Stand,ELEC,35.50,70,Y,available,pcs,S001,TechSupply Co
+34,Rice 5kg,F&B,22.50,65,Y,available,kg,S002,Fresh Foods Inc
+35,Envelope Pack,STAT,6.25,190,Y,available,pack,S003,Office Depot
+36,Desk Organizer,FURN,28.99,45,Y,available,pcs,S004,Furniture Plus
+37,Laptop Cooling Pad,ELEC,32.00,88,Y,available,pcs,S001,TechSupply Co
+38,Dark Chocolate Bar,F&B,3.99,210,Y,available,pcs,S002,Fresh Foods Inc
+39,Calculator,STAT,12.75,155,Y,available,pcs,S003,Office Depot
+40,Footrest,FURN,35.00,35,Y,available,pcs,S004,Furniture Plus
+41,Phone Charger,ELEC,19.99,175,Y,available,pcs,S001,TechSupply Co
+42,Maple Syrup 250ml,F&B,11.25,92,Y,available,jar,S002,Fresh Foods Inc
+43,Scissors,STAT,7.50,165,Y,available,pcs,S003,Office Depot
+44,Monitor Arm,FURN,89.99,22,Y,available,pcs,S004,Furniture Plus
+45,Ethernet Cable 5m,ELEC,14.75,130,Y,available,pcs,S001,TechSupply Co
+46,Herbal Tea Box,F&B,7.99,105,Y,available,box,S002,Fresh Foods Inc
+47,Tape Dispenser,STAT,9.25,140,Y,available,pcs,S003,Office Depot
+48,Desk Drawer Unit,FURN,79.99,14,N,unavailable,pcs,S004,Furniture Plus
+49,Laptop Stand,ELEC,48.50,62,Y,available,pcs,S001,TechSupply Co
+50,Quinoa 1kg,F&B,13.50,88,Y,available,kg,S002,Fresh Foods Inc

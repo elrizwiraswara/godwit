@@ -1,0 +1,15 @@
+item_id,item_name,item_category,unit_price,available_stock,is_available,stock_status,unit_type,warehouse_id,warehouse_name
+101,Gaming Headset,Accessories,79.99,45,true,available,unit,WH01,Central Warehouse
+102,Bluetooth Speaker,Accessories,55.00,120,true,available,unit,WH01,Central Warehouse
+103,Instant Noodles Pack,Groceries,2.99,850,true,available,pack,WH02,Food Storage
+104,Mineral Water 1.5L,Beverages,1.25,600,true,available,bottle,WH02,Food Storage
+105,Ballpoint Pen Blue,Office Supplies,0.85,1200,true,available,piece,WH03,Stationery Hub
+106,Espresso Coffee 250g,Groceries,14.50,200,true,available,pack,WH02,Food Storage
+107,Laptop Stand,Accessories,35.75,80,false,discontinued,unit,WH01,Central Warehouse
+108,Copy Paper 500 sheets,Office Supplies,8.99,400,true,available,ream,WH03,Stationery Hub
+109,Standing Desk,Furniture,449.00,12,true,low_stock,unit,WH04,Furniture Depot
+110,Stapler Metal,Office Supplies,12.50,300,true,available,piece,WH03,Stationery Hub
+111,Wireless Charger,Accessories,28.99,90,true,available,unit,WH01,Central Warehouse
+112,Chocolate Bar 100g,Groceries,3.75,500,true,available,bar,WH02,Food Storage
+113,File Folder Set,Office Supplies,6.25,180,true,available,set,WH03,Stationery Hub
+114,Energy Drink 250ml,Beverages,2.50,750,true,available,can,WH02,Food Storage

@@ -1,0 +1,51 @@
+sku,product_name,category,retail_price,stock_qty,enabled,stock_level,unit_of_measure,permissions,supplier_id,supplier_name
+SKU001,Wireless Keyboard,Electronics,65.00,85,true,in_stock,piece,view,SUP01,Tech Distributors
+SKU002,Office Chair Pro,Furniture,249.99,22,true,in_stock,piece,"view, edit",SUP02,Furniture World
+SKU003,Organic Green Tea,Food,12.99,150,true,in_stock,box,"view, edit, delete",SUP03,Healthy Foods Co
+SKU004,Notebook 200pg,Stationery,4.50,600,true,in_stock,piece,view,SUP04,Paper & Pens Ltd
+SKU005,USB Hub 4-Port,Electronics,18.75,120,true,in_stock,piece,"view, edit",SUP01,Tech Distributors
+SKU006,Protein Bar Chocolate,Food,3.25,400,true,in_stock,piece,view,SUP03,Healthy Foods Co
+SKU007,Desk Organizer,Stationery,15.50,95,false,discontinued,piece,"view, edit, delete",SUP04,Paper & Pens Ltd
+SKU008,Monitor Stand,Furniture,45.00,55,true,in_stock,piece,"view, edit",SUP02,Furniture World
+SKU009,Ceramic Mug,Kitchenware,8.99,200,true,in_stock,piece,view,SUP05,Home Essentials
+SKU010,AA Batteries 4pk,Electronics,6.75,350,true,in_stock,pack,"view, edit",SUP01,Tech Distributors
+SKU011,Bookshelf 5-Tier,Furniture,129.00,8,true,low_stock,piece,"view, edit, delete",SUP02,Furniture World
+SKU012,Sticky Notes Set,Stationery,5.25,450,true,in_stock,set,view,SUP04,Paper & Pens Ltd
+SKU013,Instant Coffee 100g,Food,9.99,180,true,in_stock,jar,"view, edit",SUP03,Healthy Foods Co
+SKU014,Webcam HD,Electronics,89.00,45,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU015,Executive Desk,Furniture,399.00,12,true,in_stock,piece,"view, edit",SUP02,Furniture World
+SKU016,Highlighter 6-Pack,Stationery,7.99,280,true,in_stock,pack,view,SUP04,Paper & Pens Ltd
+SKU017,Gaming Mouse RGB,Electronics,45.50,95,true,in_stock,piece,"view, edit",SUP01,Tech Distributors
+SKU018,Granola Bar Mixed,Food,2.75,520,true,in_stock,piece,view,SUP03,Healthy Foods Co
+SKU019,Coffee Maker 12-Cup,Kitchenware,79.99,35,true,in_stock,piece,"view, edit, delete",SUP05,Home Essentials
+SKU020,Ethernet Cable 5m,Electronics,12.50,200,true,in_stock,piece,view,SUP01,Tech Distributors
+SKU021,Filing Cabinet 4-Drawer,Furniture,189.00,18,true,in_stock,piece,"view, edit, delete",SUP02,Furniture World
+SKU022,Paper Clips Box,Stationery,3.99,800,true,in_stock,box,view,SUP04,Paper & Pens Ltd
+SKU023,Almond Butter 500g,Food,15.75,110,true,in_stock,jar,"view, edit",SUP03,Healthy Foods Co
+SKU024,Mechanical Keyboard,Electronics,125.00,42,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU025,Ergonomic Footrest,Furniture,35.50,65,true,in_stock,piece,view,SUP02,Furniture World
+SKU026,Correction Tape,Stationery,2.25,950,true,in_stock,piece,view,SUP04,Paper & Pens Ltd
+SKU027,Dark Chocolate Bar,Food,4.50,380,true,in_stock,piece,"view, edit",SUP03,Healthy Foods Co
+SKU028,Portable SSD 1TB,Electronics,159.99,28,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU029,Conference Table,Furniture,649.00,5,true,low_stock,piece,"view, edit, delete",SUP02,Furniture World
+SKU030,Binder Clips Assorted,Stationery,6.50,420,true,in_stock,set,view,SUP04,Paper & Pens Ltd
+SKU031,Herbal Tea Variety,Food,18.99,140,true,in_stock,box,"view, edit",SUP03,Healthy Foods Co
+SKU032,Wireless Mouse Pad,Electronics,22.00,175,true,in_stock,piece,view,SUP01,Tech Distributors
+SKU033,Standing Desk Converter,Furniture,179.00,25,true,in_stock,piece,"view, edit",SUP02,Furniture World
+SKU034,Index Cards 500ct,Stationery,8.75,320,true,in_stock,pack,view,SUP04,Paper & Pens Ltd
+SKU035,Trail Mix 300g,Food,7.25,265,true,in_stock,pack,"view, edit, delete",SUP03,Healthy Foods Co
+SKU036,USB-C Adapter Hub,Electronics,34.99,88,true,in_stock,piece,"view, edit",SUP01,Tech Distributors
+SKU037,Task Chair Basic,Furniture,89.00,48,false,discontinued,piece,view,SUP02,Furniture World
+SKU038,Whiteboard Eraser,Stationery,4.25,550,true,in_stock,piece,view,SUP04,Paper & Pens Ltd
+SKU039,Energy Drink 24pk,Food,29.99,75,true,in_stock,pack,"view, edit",SUP03,Healthy Foods Co
+SKU040,Laptop Cooling Pad,Electronics,28.50,92,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU041,Storage Cabinet Metal,Furniture,225.00,14,true,in_stock,piece,"view, edit",SUP02,Furniture World
+SKU042,Permanent Markers 12pk,Stationery,11.99,410,true,in_stock,pack,view,SUP04,Paper & Pens Ltd
+SKU043,Coconut Water 1L,Food,5.50,190,true,in_stock,btl,"view, edit",SUP03,Healthy Foods Co
+SKU044,Bluetooth Headphones,Electronics,75.00,68,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU045,Visitor Chair Set,Furniture,159.00,20,true,in_stock,set,"view, edit",SUP02,Furniture World
+SKU046,Tape Dispenser Heavy,Stationery,9.50,285,true,in_stock,piece,view,SUP04,Paper & Pens Ltd
+SKU047,Peanut Butter Organic,Food,12.25,155,true,in_stock,jar,"view, edit, delete",SUP03,Healthy Foods Co
+SKU048,Graphics Tablet,Electronics,199.00,32,true,in_stock,piece,"view, edit, delete",SUP01,Tech Distributors
+SKU049,Corner Desk L-Shape,Furniture,349.00,9,true,low_stock,piece,"view, edit",SUP02,Furniture World
+SKU050,Calculator Scientific,Stationery,18.99,225,true,in_stock,piece,view,SUP04,Paper & Pens Ltd

@@ -1,0 +1,69 @@
+[
+  {
+    "column": "sku",
+    "values": []
+  },
+  {
+    "column": "product_name",
+    "values": []
+  },
+  {
+    "column": "category",
+    "values": [
+      "Electronics",
+      "Furniture",
+      "Food",
+      "Stationery",
+      "Kitchenware"
+    ]
+  },
+  {
+    "column": "retail_price",
+    "values": []
+  },
+  {
+    "column": "stock_qty",
+    "values": []
+  },
+  {
+    "column": "enabled",
+    "values": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "column": "stock_level",
+    "values": [
+      "in_stock",
+      "discontinued",
+      "low_stock"
+    ]
+  },
+  {
+    "column": "unit_of_measure",
+    "values": [
+      "piece",
+      "box",
+      "set",
+      "pack",
+      "jar"
+    ]
+  },
+  {
+    "column": "permissions",
+    "values": [
+      "view",
+      "view, edit",
+      "view, edit, delete"
+    ]
+  },
+  {
+    "column": "supplier_id",
+    "values": []
+  },
+  {
+    "column": "supplier_name",
+    "values": []
+  }
+]

@@ -1,0 +1,9 @@
+.git
+app
+dist
+installer
+scripts
+input
+output
+image.png
+**/*_test.go

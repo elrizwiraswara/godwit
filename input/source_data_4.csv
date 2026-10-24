@@ -1,0 +1,51 @@
+sku,name,stock,price,store
+SKU001,Wireless Mouse,150,25.99,Downtown Store
+SKU002,USB Keyboard,200,35.50,Downtown Store
+SKU003,Cotton T-Shirt,300,15.99,Northside Mall
+SKU004,Denim Jeans,180,45.00,Northside Mall
+SKU005,Running Shoes,120,89.99,Eastside Plaza
+SKU006,Casual Sneakers,95,65.00,Eastside Plaza
+SKU007,Blender,80,75.50,Westend Center
+SKU008,Toaster,110,45.99,Westend Center
+SKU009,LED Desk Lamp,140,32.00,Downtown Store
+SKU010,Floor Lamp,60,85.00,Central Branch
+SKU011,Yoga Mat,200,25.50,Eastside Plaza
+SKU012,Dumbbells Set,75,120.00,Eastside Plaza
+SKU013,Notebook Set,500,8.99,Northside Mall
+SKU014,Pen Pack,800,4.50,Northside Mall
+SKU015,Backpack,150,55.00,Westend Center
+SKU016,Laptop Bag,130,68.99,Downtown Store
+SKU017,Coffee Maker,85,95.00,Central Branch
+SKU018,Electric Kettle,160,38.50,Central Branch
+SKU019,Hoodie,220,48.00,Northside Mall
+SKU020,Leggings,280,28.99,Northside Mall
+SKU021,HDMI Cable,400,12.99,Downtown Store
+SKU022,Webcam,90,58.00,Downtown Store
+SKU023,Basketball,110,35.00,Eastside Plaza
+SKU024,Soccer Ball,125,30.00,Eastside Plaza
+SKU025,Winter Jacket,100,125.00,Northside Mall
+SKU026,Rain Coat,85,75.00,Westend Center
+SKU027,Pillow Set,150,40.00,Central Branch
+SKU028,Bedsheet Set,120,65.00,Central Branch
+SKU029,Wall Clock,90,28.50,Westend Center
+SKU030,Picture Frame,200,18.99,Westend Center
+SKU031,Tennis Racket,60,85.00,Eastside Plaza
+SKU032,Badminton Set,80,45.00,Eastside Plaza
+SKU033,Desk Organizer,180,15.50,Downtown Store
+SKU034,File Folder Pack,250,12.00,Northside Mall
+SKU035,Sunglasses,140,42.00,Eastside Plaza
+SKU036,Reading Glasses,95,55.00,Central Branch
+SKU037,Wristwatch,70,150.00,Downtown Store
+SKU038,Smart Watch,50,285.00,Downtown Store
+SKU039,Sandals,160,35.00,Westend Center
+SKU040,Formal Shoes,90,95.00,Central Branch
+SKU041,Protein Powder,110,48.99,Eastside Plaza
+SKU042,Vitamins,200,25.50,Eastside Plaza
+SKU043,Shampoo,300,12.99,Northside Mall
+SKU044,Conditioner,280,13.50,Northside Mall
+SKU045,Face Cream,150,32.00,Westend Center
+SKU046,Body Lotion,220,18.50,Central Branch
+SKU047,Water Bottle,350,15.00,Downtown Store
+SKU048,Camping Tent,40,180.00,Eastside Plaza
+SKU049,Cookbook,120,22.00,Northside Mall
+SKU050,Magazine Set,180,15.99,Central Branch

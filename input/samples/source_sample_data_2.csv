@@ -1,0 +1,15 @@
+prod_code,prod_description,category_code,price_per_unit,qty_in_stock,active_status,availability,measure_unit,storage_loc_id,storage_location
+101,Gaming Headset,ACC,79.99,45,1,A,ea,WH01,Central Warehouse
+102,Bluetooth Speaker,ACC,55.00,120,1,A,ea,WH01,Central Warehouse
+103,Instant Noodles Pack,GRO,2.99,850,1,A,pk,WH02,Food Storage
+104,Mineral Water 1.5L,BEV,1.25,600,1,A,btl,WH02,Food Storage
+105,Ballpoint Pen Blue,OFF,0.85,1200,1,A,pc,WH03,Stationery Hub
+106,Espresso Coffee 250g,GRO,14.50,200,1,A,pk,WH02,Food Storage
+107,Laptop Stand,ACC,35.75,80,0,D,ea,WH01,Central Warehouse
+108,Copy Paper 500 sheets,OFF,8.99,400,1,A,rm,WH03,Stationery Hub
+109,Standing Desk,FUR,449.00,12,1,L,ea,WH04,Furniture Depot
+110,Stapler Metal,OFF,12.50,300,1,A,pc,WH03,Stationery Hub
+111,Wireless Charger,ACC,28.99,90,1,A,ea,WH01,Central Warehouse
+112,Chocolate Bar 100g,GRO,3.75,500,1,A,bar,WH02,Food Storage
+113,File Folder Set,OFF,6.25,180,1,A,set,WH03,Stationery Hub
+114,Energy Drink 250ml,BEV,2.50,750,1,A,can,WH02,Food Storage

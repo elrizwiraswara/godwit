@@ -1,0 +1,94 @@
+[
+  {
+    "column": "product_id",
+    "target_column": "id",
+    "values": []
+  },
+  {
+    "column": "product_name",
+    "target_column": "name",
+    "values": []
+  },
+  {
+    "column": "product_type",
+    "target_column": "category",
+    "values": [
+      "ELEC",
+      "F\u0026B",
+      "STAT",
+      "FURN"
+    ],
+    "values_mapping": {
+      "ELEC": "Electronics",
+      "F\u0026B": "Food \u0026 Beverage",
+      "FURN": "Furniture",
+      "STAT": "Stationery"
+    }
+  },
+  {
+    "column": "unit_price",
+    "target_column": "price",
+    "values": []
+  },
+  {
+    "column": "qty_available",
+    "target_column": "stock_quantity",
+    "values": []
+  },
+  {
+    "column": "active_flag",
+    "target_column": "is_active",
+    "values": [
+      "Y",
+      "N"
+    ],
+    "values_mapping": {
+      "N": "false",
+      "Y": "true"
+    }
+  },
+  {
+    "column": "inventory_status",
+    "target_column": "status",
+    "values": [
+      "available",
+      "unavailable",
+      "low"
+    ],
+    "values_mapping": {
+      "available": "in_stock",
+      "low": "low_stock",
+      "unavailable": "out_of_stock"
+    }
+  },
+  {
+    "column": "measurement_unit",
+    "target_column": "unit",
+    "values": [
+      "pcs",
+      "kg",
+      "box",
+      "ream",
+      "pack",
+      "jar"
+    ],
+    "values_mapping": {
+      "box": "box",
+      "jar": "jar",
+      "kg": "kilogram",
+      "pack": "pack",
+      "pcs": "piece",
+      "ream": "ream"
+    }
+  },
+  {
+    "column": "vendor_code",
+    "target_column": "supplier_id",
+    "values": []
+  },
+  {
+    "column": "vendor_company",
+    "target_column": "supplier_name",
+    "values": []
+  }
+]

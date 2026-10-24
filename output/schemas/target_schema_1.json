@@ -1,0 +1,61 @@
+[
+  {
+    "column": "id",
+    "values": []
+  },
+  {
+    "column": "name",
+    "values": []
+  },
+  {
+    "column": "category",
+    "values": [
+      "Electronics",
+      "Food \u0026 Beverage",
+      "Stationery",
+      "Furniture"
+    ]
+  },
+  {
+    "column": "price",
+    "values": []
+  },
+  {
+    "column": "stock_quantity",
+    "values": []
+  },
+  {
+    "column": "is_active",
+    "values": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "column": "status",
+    "values": [
+      "in_stock",
+      "out_of_stock",
+      "low_stock"
+    ]
+  },
+  {
+    "column": "unit",
+    "values": [
+      "piece",
+      "kilogram",
+      "box",
+      "ream",
+      "pack",
+      "jar"
+    ]
+  },
+  {
+    "column": "supplier_id",
+    "values": []
+  },
+  {
+    "column": "supplier_name",
+    "values": []
+  }
+]

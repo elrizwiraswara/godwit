@@ -1,0 +1,25 @@
+# Runs the API as a service on your server. Put it behind a reverse proxy
+# with HTTPS (Caddy, Nginx, Traefik); API keys must not travel over plain HTTP.
+#
+# Start: GODWIT_API_KEYS=key-for-app-1,key-for-app-2 docker compose up -d --build
+
+services:
+  godwit:
+    build: .
+    image: godwit:latest
+    restart: unless-stopped
+    ports:
+      # Reachable only from this host, through the reverse proxy
+      - "127.0.0.1:8080:8080"
+    environment:
+      GODWIT_API_KEYS: ${GODWIT_API_KEYS:?Set GODWIT_API_KEYS to one or more comma-separated keys}
+      GODWIT_CORS_ORIGINS: ${GODWIT_CORS_ORIGINS:-}
+    read_only: true
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    deploy:
+      resources:
+        limits:
+          memory: 512m

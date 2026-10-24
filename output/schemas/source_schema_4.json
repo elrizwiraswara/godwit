@@ -1,0 +1,67 @@
+[
+  {
+    "column": "",
+    "target_column": "id",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "parent_id",
+    "values": []
+  },
+  {
+    "column": "sku",
+    "target_column": "item_code",
+    "values": []
+  },
+  {
+    "column": "name",
+    "target_column": "name",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "product_group",
+    "values": []
+  },
+  {
+    "column": "price",
+    "target_column": "srp",
+    "values": []
+  },
+  {
+    "column": "stock",
+    "target_column": "qty",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "department_id",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "department_name",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "category_id",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "category_name",
+    "values": []
+  },
+  {
+    "column": "",
+    "target_column": "store_id",
+    "values": []
+  },
+  {
+    "column": "store",
+    "target_column": "store_name",
+    "values": []
+  }
+]

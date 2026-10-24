@@ -1,0 +1,51 @@
+id,name,category,price,stock_quantity,is_active,status,unit,supplier_id,supplier_name
+1,Wireless Mouse,Electronics,25.99,150,true,in_stock,piece,S001,TechSupply Co
+2,USB-C Cable,Electronics,12.50,300,true,in_stock,piece,S001,TechSupply Co
+3,Coffee Beans 1kg,Food & Beverage,18.75,80,true,in_stock,kilogram,S002,Fresh Foods Inc
+4,Notebook A4,Stationery,3.25,500,true,in_stock,piece,S003,Office Depot
+5,Desk Lamp,Electronics,45.00,60,true,in_stock,piece,S001,TechSupply Co
+6,Green Tea Box,Food & Beverage,8.50,120,true,in_stock,box,S002,Fresh Foods Inc
+7,Mechanical Keyboard,Electronics,89.99,40,false,out_of_stock,piece,S001,TechSupply Co
+8,Printer Paper A4,Stationery,22.00,200,true,in_stock,ream,S003,Office Depot
+9,Ergonomic Chair,Furniture,299.99,15,true,low_stock,piece,S004,Furniture Plus
+10,Whiteboard Markers,Stationery,5.75,250,true,in_stock,pack,S003,Office Depot
+11,HDMI Cable 2m,Electronics,15.25,180,true,in_stock,piece,S001,TechSupply Co
+12,Organic Honey 500g,Food & Beverage,12.99,95,true,in_stock,jar,S002,Fresh Foods Inc
+13,Bluetooth Speaker,Electronics,55.00,85,true,in_stock,piece,S001,TechSupply Co
+14,Pasta 500g,Food & Beverage,4.25,220,true,in_stock,pack,S002,Fresh Foods Inc
+15,Stapler,Stationery,8.99,180,true,in_stock,piece,S003,Office Depot
+16,Office Desk,Furniture,199.99,25,true,in_stock,piece,S004,Furniture Plus
+17,Webcam HD,Electronics,75.50,55,true,in_stock,piece,S001,TechSupply Co
+18,Olive Oil 1L,Food & Beverage,16.50,110,true,in_stock,jar,S002,Fresh Foods Inc
+19,Sticky Notes,Stationery,2.75,400,true,in_stock,pack,S003,Office Depot
+20,Filing Cabinet,Furniture,159.99,12,true,low_stock,piece,S004,Furniture Plus
+21,Wireless Keyboard,Electronics,42.00,95,true,in_stock,piece,S001,TechSupply Co
+22,Granola Bars,Food & Beverage,9.99,145,true,in_stock,box,S002,Fresh Foods Inc
+23,Paper Clips,Stationery,1.50,600,true,in_stock,box,S003,Office Depot
+24,Bookshelf,Furniture,129.99,18,true,in_stock,piece,S004,Furniture Plus
+25,USB Flash Drive 32GB,Electronics,18.99,200,true,in_stock,piece,S001,TechSupply Co
+26,Almonds 500g,Food & Beverage,14.75,75,true,in_stock,pack,S002,Fresh Foods Inc
+27,Highlighters,Stationery,4.50,320,true,in_stock,pack,S003,Office Depot
+28,Office Chair Mat,Furniture,45.00,30,true,in_stock,piece,S004,Furniture Plus
+29,Computer Mouse Pad,Electronics,8.25,250,true,in_stock,piece,S001,TechSupply Co
+30,Black Pepper 100g,Food & Beverage,5.99,160,true,in_stock,jar,S002,Fresh Foods Inc
+31,Binder Clips,Stationery,3.75,280,true,in_stock,box,S003,Office Depot
+32,Standing Desk,Furniture,399.99,8,true,low_stock,piece,S004,Furniture Plus
+33,Monitor Stand,Electronics,35.50,70,true,in_stock,piece,S001,TechSupply Co
+34,Rice 5kg,Food & Beverage,22.50,65,true,in_stock,kilogram,S002,Fresh Foods Inc
+35,Envelope Pack,Stationery,6.25,190,true,in_stock,pack,S003,Office Depot
+36,Desk Organizer,Furniture,28.99,45,true,in_stock,piece,S004,Furniture Plus
+37,Laptop Cooling Pad,Electronics,32.00,88,true,in_stock,piece,S001,TechSupply Co
+38,Dark Chocolate Bar,Food & Beverage,3.99,210,true,in_stock,piece,S002,Fresh Foods Inc
+39,Calculator,Stationery,12.75,155,true,in_stock,piece,S003,Office Depot
+40,Footrest,Furniture,35.00,35,true,in_stock,piece,S004,Furniture Plus
+41,Phone Charger,Electronics,19.99,175,true,in_stock,piece,S001,TechSupply Co
+42,Maple Syrup 250ml,Food & Beverage,11.25,92,true,in_stock,jar,S002,Fresh Foods Inc
+43,Scissors,Stationery,7.50,165,true,in_stock,piece,S003,Office Depot
+44,Monitor Arm,Furniture,89.99,22,true,in_stock,piece,S004,Furniture Plus
+45,Ethernet Cable 5m,Electronics,14.75,130,true,in_stock,piece,S001,TechSupply Co
+46,Herbal Tea Box,Food & Beverage,7.99,105,true,in_stock,box,S002,Fresh Foods Inc
+47,Tape Dispenser,Stationery,9.25,140,true,in_stock,piece,S003,Office Depot
+48,Desk Drawer Unit,Furniture,79.99,14,false,out_of_stock,piece,S004,Furniture Plus
+49,Laptop Stand,Electronics,48.50,62,true,in_stock,piece,S001,TechSupply Co
+50,Quinoa 1kg,Food & Beverage,13.50,88,true,in_stock,kilogram,S002,Fresh Foods Inc

@@ -1,0 +1,64 @@
+[
+  {
+    "column": "item_id",
+    "values": []
+  },
+  {
+    "column": "item_name",
+    "values": []
+  },
+  {
+    "column": "item_category",
+    "values": [
+      "Accessories",
+      "Groceries",
+      "Beverages",
+      "Office Supplies",
+      "Furniture"
+    ]
+  },
+  {
+    "column": "unit_price",
+    "values": []
+  },
+  {
+    "column": "available_stock",
+    "values": []
+  },
+  {
+    "column": "is_available",
+    "values": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "column": "stock_status",
+    "values": [
+      "available",
+      "discontinued",
+      "low_stock"
+    ]
+  },
+  {
+    "column": "unit_type",
+    "values": [
+      "unit",
+      "pack",
+      "bottle",
+      "piece",
+      "ream",
+      "bar",
+      "set",
+      "can"
+    ]
+  },
+  {
+    "column": "warehouse_id",
+    "values": []
+  },
+  {
+    "column": "warehouse_name",
+    "values": []
+  }
+]

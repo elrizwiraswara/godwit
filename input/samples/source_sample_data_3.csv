@@ -1,0 +1,15 @@
+product_code,description,prod_type,sale_price,inventory_count,is_active,availability_status,uom,access_rights,vendor_id,vendor_name
+SKU001,Wireless Keyboard,ELEC,65.00,85,Y,avail,pc,R,SUP01,Tech Distributors
+SKU002,Office Chair Pro,FURN,249.99,22,Y,avail,pc,R+W,SUP02,Furniture World
+SKU003,Organic Green Tea,FOOD,12.99,150,Y,avail,bx,R+W+D,SUP03,Healthy Foods Co
+SKU004,Notebook 200pg,STAT,4.50,600,Y,avail,pc,R,SUP04,Paper & Pens Ltd
+SKU005,USB Hub 4-Port,ELEC,18.75,120,Y,avail,pc,R+W,SUP01,Tech Distributors
+SKU006,Protein Bar Chocolate,FOOD,3.25,400,Y,avail,pc,R,SUP03,Healthy Foods Co
+SKU007,Desk Organizer,STAT,15.50,95,N,disc,pc,R+W+D,SUP04,Paper & Pens Ltd
+SKU008,Monitor Stand,FURN,45.00,55,Y,avail,pc,R+W,SUP02,Furniture World
+SKU009,Ceramic Mug,KITCH,8.99,200,Y,avail,pc,R,SUP05,Home Essentials
+SKU010,AA Batteries 4pk,ELEC,6.75,350,Y,avail,pk,R+W,SUP01,Tech Distributors
+SKU011,Bookshelf 5-Tier,FURN,129.00,8,Y,low,pc,R+W+D,SUP02,Furniture World
+SKU012,Sticky Notes Set,STAT,5.25,450,Y,avail,set,R,SUP04,Paper & Pens Ltd
+SKU013,Instant Coffee 100g,FOOD,9.99,180,Y,avail,jar,R+W,SUP03,Healthy Foods Co
+SKU014,Webcam HD,ELEC,89.00,45,Y,avail,pc,R+W+D,SUP01,Tech Distributors

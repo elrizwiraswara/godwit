@@ -1,0 +1,13 @@
+product_id,product_name,product_type,unit_price,qty_available,active_flag,inventory_status,measurement_unit,vendor_code,vendor_company
+1,Wireless Mouse,ELEC,25.99,150,Y,available,pcs,S001,TechSupply Co
+2,USB-C Cable,ELEC,12.50,300,Y,available,pcs,S001,TechSupply Co
+3,Coffee Beans 1kg,F&B,18.75,80,Y,available,kg,S002,Fresh Foods Inc
+4,Notebook A4,STAT,3.25,500,Y,available,pcs,S003,Office Depot
+5,Desk Lamp,ELEC,45.00,60,Y,available,pcs,S001,TechSupply Co
+6,Green Tea Box,F&B,8.50,120,Y,available,box,S002,Fresh Foods Inc
+7,Mechanical Keyboard,ELEC,89.99,40,N,unavailable,pcs,S001,TechSupply Co
+8,Printer Paper A4,STAT,22.00,200,Y,available,ream,S003,Office Depot
+9,Ergonomic Chair,FURN,299.99,15,Y,low,pcs,S004,Furniture Plus
+10,Whiteboard Markers,STAT,5.75,250,Y,available,pack,S003,Office Depot
+11,HDMI Cable 2m,ELEC,15.25,180,Y,available,pcs,S001,TechSupply Co
+12,Organic Honey 500g,F&B,12.99,95,Y,available,jar,S002,Fresh Foods Inc

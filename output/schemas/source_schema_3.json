@@ -1,0 +1,108 @@
+[
+  {
+    "column": "product_code",
+    "target_column": "sku",
+    "values": []
+  },
+  {
+    "column": "description",
+    "target_column": "product_name",
+    "values": []
+  },
+  {
+    "column": "prod_type",
+    "target_column": "category",
+    "values": [
+      "ELEC",
+      "FURN",
+      "FOOD",
+      "STAT",
+      "KITCH"
+    ],
+    "values_mapping": {
+      "ELEC": "Electronics",
+      "FOOD": "Food",
+      "FURN": "Furniture",
+      "KITCH": "Kitchenware",
+      "STAT": "Stationery"
+    }
+  },
+  {
+    "column": "sale_price",
+    "target_column": "retail_price",
+    "values": []
+  },
+  {
+    "column": "inventory_count",
+    "target_column": "stock_qty",
+    "values": []
+  },
+  {
+    "column": "is_active",
+    "target_column": "enabled",
+    "values": [
+      "Y",
+      "N"
+    ],
+    "values_mapping": {
+      "N": "false",
+      "Y": "true"
+    }
+  },
+  {
+    "column": "availability_status",
+    "target_column": "stock_level",
+    "values": [
+      "avail",
+      "disc",
+      "low"
+    ],
+    "values_mapping": {
+      "avail": "in_stock",
+      "disc": "discontinued",
+      "low": "low_stock"
+    }
+  },
+  {
+    "column": "uom",
+    "target_column": "unit_of_measure",
+    "values": [
+      "pc",
+      "bx",
+      "pk",
+      "set",
+      "jar"
+    ],
+    "values_mapping": {
+      "bx": "box",
+      "jar": "jar",
+      "pc": "piece",
+      "pk": "pack",
+      "set": "set"
+    }
+  },
+  {
+    "column": "access_rights",
+    "target_column": "permissions",
+    "values": [
+      "R",
+      "R+W",
+      "R+W+D"
+    ],
+    "values_mapping": {
+      "R": "view",
+      "R+W": "view, edit",
+      "R+W+D": "view, edit, delete"
+    }
+  },
+  {
+    "column": "vendor_id",
+    "target_column": "supplier_id",
+    "values": []
+  },
+  {
+    "column": "vendor_name",
+    "target_column": "supplier_name",
+    "values": []
+  }
+]

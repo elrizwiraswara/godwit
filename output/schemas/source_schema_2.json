@@ -1,0 +1,98 @@
+[
+  {
+    "column": "prod_code",
+    "target_column": "item_id",
+    "values": []
+  },
+  {
+    "column": "prod_description",
+    "target_column": "item_name",
+    "values": []
+  },
+  {
+    "column": "category_code",
+    "target_column": "item_category",
+    "values": [
+      "ACC",
+      "GRO",
+      "BEV",
+      "OFF",
+      "FUR"
+    ],
+    "values_mapping": {
+      "ACC": "Accessories",
+      "BEV": "Beverages",
+      "FUR": "Furniture",
+      "GRO": "Groceries",
+      "OFF": "Office Supplies"
+    }
+  },
+  {
+    "column": "price_per_unit",
+    "target_column": "unit_price",
+    "values": []
+  },
+  {
+    "column": "qty_in_stock",
+    "target_column": "available_stock",
+    "values": []
+  },
+  {
+    "column": "active_status",
+    "target_column": "is_available",
+    "values": [
+      "1",
+      "0"
+    ],
+    "values_mapping": {
+      "0": "false",
+      "1": "true"
+    }
+  },
+  {
+    "column": "availability",
+    "target_column": "stock_status",
+    "values": [
+      "A",
+      "D"
+    ],
+    "values_mapping": {
+      "A": "available",
+      "D": "discontinued"
+    }
+  },
+  {
+    "column": "measure_unit",
+    "target_column": "unit_type",
+    "values": [
+      "ea",
+      "pk",
+      "btl",
+      "pc",
+      "rm",
+      "set",
+      "can",
+      "bar"
+    ],
+    "values_mapping": {
+      "bar": "bar",
+      "btl": "bottle",
+      "can": "can",
+      "ea": "unit",
+      "pc": "piece",
+      "pk": "pack",
+      "rm": "ream",
+      "set": "set"
+    }
+  },
+  {
+    "column": "storage_loc_id",
+    "target_column": "warehouse_id",
+    "values": []
+  },
+  {
+    "column": "storage_location",
+    "target_column": "warehouse_name",
+    "values": []
+  }
+]

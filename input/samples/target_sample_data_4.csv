@@ -1,0 +1,16 @@
+id,parent_id,item_code,name,product_group,srp,qty,department_id,department_name,category_id,category_name,store_id,store_name
+1,1001,SKU001,Wireless Mouse,Electronics,25.99,150,10,Electronics,101,Computer Accessories,1,Downtown Store
+3,1002,SKU003,Cotton T-Shirt,Apparel,15.99,300,20,Clothing,201,Men's Wear,2,Northside Mall
+5,1003,SKU005,Running Shoes,Footwear,89.99,120,30,Shoes,301,Athletic,3,Eastside Plaza
+7,1004,SKU007,Blender,Appliances,75.50,80,40,Home,401,Kitchen,4,Westend Center
+10,1005,SKU010,Floor Lamp,Electronics,85.00,60,10,Electronics,102,Lighting,5,Central Branch
+11,1006,SKU011,Yoga Mat,Sports,25.50,200,50,Sports,501,Fitness,3,Eastside Plaza
+13,1007,SKU013,Notebook Set,Stationery,8.99,500,60,Office,601,Writing,2,Northside Mall
+19,1010,SKU019,Hoodie,Apparel,48.00,220,20,Clothing,202,Women's Wear,2,Northside Mall
+23,1012,SKU023,Basketball,Sports,35.00,110,50,Sports,502,Team Sports,3,Eastside Plaza
+25,1013,SKU025,Winter Jacket,Apparel,125.00,100,20,Clothing,203,Outerwear,2,Northside Mall
+29,1015,SKU029,Wall Clock,Decor,28.50,90,40,Home,403,Decoration,4,Westend Center
+36,1018,SKU036,Reading Glasses,Accessories,55.00,95,70,Accessories,702,Eyewear,5,Central Branch
+41,1021,SKU041,Protein Powder,Health,48.99,110,80,Health,801,Supplements,3,Eastside Plaza
+43,1022,SKU043,Shampoo,Personal Care,12.99,300,90,Beauty,901,Hair Care,2,Northside Mall
+49,1025,SKU049,Cookbook,Books,22.00,120,100,Media,1001,Books,2,Northside Mall
