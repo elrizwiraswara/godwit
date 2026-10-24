@@ -1,4 +1,4 @@
-<img src="assets/brand/godwit-banner.png" alt="Godwit: offline CSV migration with no AI service. An old POS export mapped to a new system's import format, with the evidence for each mapping.">
+<img src="assets/brand/godwit-header.svg" width="720" alt="Godwit: move your data to a new system, without it ever leaving yours.">
 
 [![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?logo=go&logoColor=white)](https://go.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
@@ -15,7 +15,7 @@ It comes as command-line tools, a desktop app (Flutter) and an HTTP API server (
 
 The name comes from the bar-tailed godwit, a shorebird that flies non-stop from Alaska to New Zealand, the longest non-stop migration of any bird. In the logo, its wing is split into three rows like a table: data on the move.
 
-<img src="image.png">
+<img src="assets/brand/godwit-banner.png" alt="An old POS export mapped to a new system's import format, with the evidence for each mapping.">
 
 ## Screenshots
 
